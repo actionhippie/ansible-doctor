@@ -1,0 +1,46 @@
+#!/usr/bin/env bash
+set -eo pipefail
+
+pushd "${GITHUB_WORKSPACE}" >/dev/null
+    ARGS=()
+
+    if [[ -n "${INPUT_CONFIG}" ]]; then
+        if [[ ! -f "{INPUT_CONFIG}" ]]; then
+            echo "error: config does not exist"
+            exit 1
+        fi
+
+        ARGS+=(--config "${INPUT_CONFIG}")
+    fi
+
+    if [[ -n "${INPUT_OUTPUT}" ]]; then
+        ARGS+=(--output "${INPUT_OUTPUT}")
+    fi
+
+    if [[ "${INPUT_FORCE}" == "true" || "${INPUT_FORCE}" == "1" ]]; then
+        ARGS+=(--force)
+    fi
+
+    if [[ "${INPUT_DRY_RUN}" == "true" || "${INPUT_DRY_RUN}" == "1" ]]; then
+        ARGS+=(--dry-run)
+    fi
+
+    if [[ "${INPUT_ROLE_DETECTION}" == "false" || "${INPUT_ROLE_DETECTION}" == "0" ]]; then
+        ARGS+=(--no-role-detection)
+    fi
+
+    if [[ "${INPUT_VERBOSE}" == "true" || "${INPUT_VERBOSE}" == "1" ]]; then
+        ARGS+=(-v)
+    fi
+
+    if [[ "${INPUT_QUIET}" == "true" || "${INPUT_QUIET}" == "1" ]]; then
+        ARGS+=(-q)
+    fi
+
+    if [[ -n "${INPUT_PATH}" ]]; then
+        ARGS+=("${INPUT_PATH}")
+    fi
+
+    ansible-doctor --version
+    ansible-doctor "${ARGS[@]}"
+popd >/dev/null

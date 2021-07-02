@@ -1,0 +1,52 @@
+---
+name: 'ansible-doctor'
+description: 'Generate docs for Ansible roles'
+author: 'actionhippie'
+
+inputs:
+  config:
+    description: |
+      Path to configuration file
+    required: false
+
+  output:
+    description: |
+      Base directory to output result
+    required: false
+
+  force:
+    description: |
+      Force overwrite the output file, defaults to `false`
+    required: false
+
+  dry_run:
+    description: |
+      Dry run without writing output, defaults to `false`
+    required: false
+
+  role_detection:
+    description: |
+      Automatic role detection, defaults to `true`
+    required: false
+    default: 'true'
+
+  verbose:
+    description: |
+      Increase logging level, defaults to `false`
+    required: false
+
+  quiet:
+    description: |
+      Decrease logging level, defaults to `false`
+    required: false
+
+  path:
+    description: |
+      Path of role directory, defaults to working dir
+    required: false
+
+runs:
+  using: 'docker'
+  image: 'docker://ghcr.io/actionhippie/ansible-doctor:v1'
+
+...
