@@ -1,4 +1,4 @@
-FROM alpine:3.15
+FROM alpine:3.16
 
 # renovate: datasource=pypi depName=ansible-doctor
 ENV ANSIBLE_DOCTOR_VERSION=1.3.3
