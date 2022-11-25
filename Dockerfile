@@ -1,7 +1,7 @@
 FROM alpine:3.17
 
 # renovate: datasource=pypi depName=ansible-doctor
-ENV ANSIBLE_DOCTOR_VERSION=1.4.6
+ENV ANSIBLE_DOCTOR_VERSION=1.4.7
 
 RUN apk add --no-cache bash python3 python3-dev py3-pip build-base && \
     pip3 install -U ansible-doctor==${ANSIBLE_DOCTOR_VERSION} && \
