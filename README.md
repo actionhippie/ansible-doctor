@@ -1,6 +1,6 @@
 # ansible-doctor
 
-[![Current Tag](https://img.shields.io/github/v/tag/actionhippie/ansible-doctor?sort=semver)](https://github.com/actionhippie/ansible-doctor) [![Docker Build](https://github.com/actionhippie/ansible-doctor/workflows/docker/badge.svg)](https://github.com/actionhippie/ansible-doctor/actions?query=workflow%3Adocker)
+[![Current Tag](https://img.shields.io/github/v/tag/actionhippie/ansible-doctor?sort=semver)](https://github.com/actionhippie/ansible-doctor) [![Docker Build](https://github.com/actionhippie/ansible-doctor/workflows/docker/badge.svg)](https://github.com/actionhippie/ansible-doctor/actions/workflows/docker.yml)
 
 [GitHub Action](https://github.com/features/actions) to generate docs for Ansible roles.
 
