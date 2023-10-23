@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/actionhippie/ansible-doctor/compare/v2.0.0...v2.1.0) (2023-10-23)
+
+
+### Features
+
+* **deps:** update dependency ansible-doctor to v3.1.0 ([ce1d098](https://github.com/actionhippie/ansible-doctor/commit/ce1d09899647e39b83955c80137d80838d80d488))
+
 ## [2.0.0](https://github.com/actionhippie/ansible-doctor/compare/v1.0.0...v2.0.0) (2023-08-31)
 
 
