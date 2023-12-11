@@ -47,6 +47,6 @@ inputs:
 
 runs:
   using: 'docker'
-  image: 'docker://ghcr.io/actionhippie/ansible-doctor:v2.1.2'
+  image: 'docker://ghcr.io/actionhippie/ansible-doctor:v2.1.3'
 
 ...
