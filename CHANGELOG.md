@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.2.0](https://github.com/actionhippie/ansible-doctor/compare/v2.1.3...v2.2.0) (2023-12-18)
+
+
+### Features
+
+* **deps:** update alpine docker tag to v3.19 ([5ded8e6](https://github.com/actionhippie/ansible-doctor/commit/5ded8e6c31f9a5d912762d0821e809f10b655ccd))
+
+
+### Bugfixes
+
+* force install via pip ([7cbdd9c](https://github.com/actionhippie/ansible-doctor/commit/7cbdd9c647452d76f061836500efd5184fa91c01))
+
 ## [2.1.3](https://github.com/actionhippie/ansible-doctor/compare/v2.1.2...v2.1.3) (2023-12-11)
 
 
