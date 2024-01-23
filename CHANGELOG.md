@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.0.1](https://github.com/actionhippie/ansible-doctor/compare/v3.0.0...v3.0.1) (2024-01-23)
+
+
+### Bugfixes
+
+* install required ansible-core package ([4841d2b](https://github.com/actionhippie/ansible-doctor/commit/4841d2b0b6192791035b3994f2626cf63d533986))
+
 ## [3.0.0](https://github.com/actionhippie/ansible-doctor/compare/v2.2.0...v3.0.0) (2024-01-15)
 
 
