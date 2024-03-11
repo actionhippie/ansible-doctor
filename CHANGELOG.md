@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.0.3](https://github.com/actionhippie/ansible-doctor/compare/v3.0.2...v3.0.3) (2024-03-11)
+
+
+### Bugfixes
+
+* **deps:** update dependency ansible-doctor to v4.0.3 ([c8ac6ab](https://github.com/actionhippie/ansible-doctor/commit/c8ac6abf357d40b50f92aa227ab54f8a4928bab5))
+
 ## [3.0.2](https://github.com/actionhippie/ansible-doctor/compare/v3.0.1...v3.0.2) (2024-03-04)
 
 
