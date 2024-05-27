@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.0](https://github.com/actionhippie/ansible-doctor/compare/v3.0.5...v3.1.0) (2024-05-27)
+
+
+### Features
+
+* **deps:** update alpine docker tag to v3.20 ([803337f](https://github.com/actionhippie/ansible-doctor/commit/803337f57bf1e42d36421984e01c88c1e24b3394))
+
 ## [3.0.5](https://github.com/actionhippie/ansible-doctor/compare/v3.0.4...v3.0.5) (2024-04-29)
 
 
