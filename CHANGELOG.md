@@ -1,5 +1,17 @@
 # Changelog
 
+## [4.0.0](https://github.com/actionhippie/ansible-doctor/compare/v3.2.0...v4.0.0) (2024-06-24)
+
+
+### Features
+
+* **deps:** update dependency ansible-doctor to v6 ([165fa6a](https://github.com/actionhippie/ansible-doctor/commit/165fa6ad2e36ffeac56d89af8262c3d84636a057))
+
+
+### Bugfixes
+
+* **deps:** update dependency ansible-doctor to v6.0.1 ([ea696d2](https://github.com/actionhippie/ansible-doctor/commit/ea696d20f400800e97ce2a5facc510c2164ead4e))
+
 ## [3.2.0](https://github.com/actionhippie/ansible-doctor/compare/v3.1.0...v3.2.0) (2024-06-10)
 
 
