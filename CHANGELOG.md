@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.0.1](https://github.com/actionhippie/ansible-doctor/compare/v4.0.0...v4.0.1) (2024-07-01)
+
+
+### Bugfixes
+
+* install required git executable ([7342ac6](https://github.com/actionhippie/ansible-doctor/commit/7342ac650296f7cca0b59ec6d75d5d98c2b85bf4))
+
 ## [4.0.0](https://github.com/actionhippie/ansible-doctor/compare/v3.2.0...v4.0.0) (2024-06-24)
 
 
