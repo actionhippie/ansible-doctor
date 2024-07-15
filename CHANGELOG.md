@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.0.2](https://github.com/actionhippie/ansible-doctor/compare/v4.0.1...v4.0.2) (2024-07-15)
+
+
+### Bugfixes
+
+* **deps:** update dependency ansible-doctor to v6.0.2 ([25ac90d](https://github.com/actionhippie/ansible-doctor/commit/25ac90d28ec4441cb8613a6b3b29c058e4bb275f))
+
 ## [4.0.1](https://github.com/actionhippie/ansible-doctor/compare/v4.0.0...v4.0.1) (2024-07-01)
 
 
