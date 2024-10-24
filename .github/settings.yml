@@ -43,7 +43,7 @@ branches:
 teams:
   - name: admins
     permission: admin
-  - name: admin
+  - name: bots
     permission: push
   - name: members
     permission: maintain
