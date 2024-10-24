@@ -44,7 +44,7 @@ teams:
   - name: admins
     permission: admin
   - name: bots
-    permission: push
+    permission: admin
   - name: members
     permission: maintain
 
