@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.1.0](https://github.com/actionhippie/ansible-doctor/compare/v5.0.0...v5.1.0) (2024-12-09)
+
+
+### Features
+
+* **deps:** update alpine docker tag to v3.21 ([#70](https://github.com/actionhippie/ansible-doctor/issues/70)) ([8585f55](https://github.com/actionhippie/ansible-doctor/commit/8585f55904bea0b7c50c60c53388e7cb6703f1c0))
+
 ## [5.0.0](https://github.com/actionhippie/ansible-doctor/compare/v4.0.2...v5.0.0) (2024-11-11)
 
 
