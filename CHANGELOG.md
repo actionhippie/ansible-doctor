@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.1.2](https://github.com/actionhippie/ansible-doctor/compare/v5.1.1...v5.1.2) (2024-12-23)
+
+
+### Bugfixes
+
+* **deps:** update dependency ansible-doctor to v7.0.2 ([#72](https://github.com/actionhippie/ansible-doctor/issues/72)) ([0164c2c](https://github.com/actionhippie/ansible-doctor/commit/0164c2c37bb5dac5170c76bf0021c6a149da84f0))
+
 ## [5.1.1](https://github.com/actionhippie/ansible-doctor/compare/v5.1.0...v5.1.1) (2024-12-16)
 
 
