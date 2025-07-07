@@ -1,5 +1,22 @@
 # Changelog
 
+## [5.2.0](https://github.com/actionhippie/ansible-doctor/compare/v5.1.3...v5.2.0) (2025-07-07)
+
+
+### Features
+
+* **deps:** update alpine docker tag to v3.22 ([#77](https://github.com/actionhippie/ansible-doctor/issues/77)) ([b3ba38e](https://github.com/actionhippie/ansible-doctor/commit/b3ba38e2318f8982edfb338ed1dbd9018b8829be))
+* replace release workflow and add workflow langserver ref ([6a49c35](https://github.com/actionhippie/ansible-doctor/commit/6a49c359a84e1ada436ceb87265ab574753769fc))
+
+
+### Bugfixes
+
+* **deps:** update dependency ansible-doctor to v7.0.4 ([#74](https://github.com/actionhippie/ansible-doctor/issues/74)) ([4657828](https://github.com/actionhippie/ansible-doctor/commit/4657828e673b8fa66ee371179f191257e9b35b61))
+* **deps:** update dependency ansible-doctor to v7.0.5 ([#75](https://github.com/actionhippie/ansible-doctor/issues/75)) ([5b4f7dd](https://github.com/actionhippie/ansible-doctor/commit/5b4f7ddf9761281a246a562b0439b2a9882779d6))
+* **deps:** update dependency ansible-doctor to v7.0.6 ([#76](https://github.com/actionhippie/ansible-doctor/issues/76)) ([49588e7](https://github.com/actionhippie/ansible-doctor/commit/49588e78697464c9bd18acebfeb7aa0aa3e1796d))
+* **deps:** update dependency ansible-doctor to v7.0.7 ([#78](https://github.com/actionhippie/ansible-doctor/issues/78)) ([ddaffe0](https://github.com/actionhippie/ansible-doctor/commit/ddaffe0da466160edf2ffa042252de072a42652e))
+* **deps:** update dependency ansible-doctor to v7.0.8 ([#79](https://github.com/actionhippie/ansible-doctor/issues/79)) ([9c07ed5](https://github.com/actionhippie/ansible-doctor/commit/9c07ed57c80db68b7d9057960d821be8bce08d8d))
+
 ## [5.1.3](https://github.com/actionhippie/ansible-doctor/compare/v5.1.2...v5.1.3) (2025-01-20)
 
 
