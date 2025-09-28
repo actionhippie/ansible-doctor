@@ -1,6 +1,6 @@
 ---
 # yaml-language-server: $schema=https://www.schemastore.org/github-action.json
-name: 'ansible-doctor'
+name: 'actionhippie-ansible-doctor'
 description: 'Generate docs for Ansible roles'
 author: 'actionhippie'
 branding:
