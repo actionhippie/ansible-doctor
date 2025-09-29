@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.4.2](https://github.com/actionhippie/ansible-doctor/compare/v5.4.1...v5.4.2) (2025-09-29)
+
+
+### Bugfixes
+
+* **deps:** pin alpine docker tag to 4bcff63 ([#86](https://github.com/actionhippie/ansible-doctor/issues/86)) ([bef964c](https://github.com/actionhippie/ansible-doctor/commit/bef964c05f901d322b2d4d83bed0bcb70ed42084))
+
 ## [5.4.1](https://github.com/actionhippie/ansible-doctor/compare/v5.4.0...v5.4.1) (2025-09-22)
 
 
