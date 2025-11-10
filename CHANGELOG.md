@@ -1,5 +1,12 @@
 # Changelog
 
+## [6.1.0](https://github.com/actionhippie/ansible-doctor/compare/v6.0.0...v6.1.0) (2025-11-10)
+
+
+### Features
+
+* integrate amd64 and arm64 support ([f048d6e](https://github.com/actionhippie/ansible-doctor/commit/f048d6ef7691f9391111e0515849a39532fda287))
+
 ## [6.0.0](https://github.com/actionhippie/ansible-doctor/compare/v5.5.0...v6.0.0) (2025-11-10)
 
 ## [5.5.0](https://github.com/actionhippie/ansible-doctor/compare/v5.4.3...v5.5.0) (2025-10-20)
