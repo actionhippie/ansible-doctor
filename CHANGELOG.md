@@ -1,5 +1,7 @@
 # Changelog
 
+## [6.0.0](https://github.com/actionhippie/ansible-doctor/compare/v5.5.0...v6.0.0) (2025-11-10)
+
 ## [5.5.0](https://github.com/actionhippie/ansible-doctor/compare/v5.4.3...v5.5.0) (2025-10-20)
 
 ## [5.4.3](https://github.com/actionhippie/ansible-doctor/compare/v5.4.2...v5.4.3) (2025-10-13)
