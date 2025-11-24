@@ -1,5 +1,7 @@
 # Changelog
 
+## [6.1.1](https://github.com/actionhippie/ansible-doctor/compare/v6.1.0...v6.1.1) (2025-11-24)
+
 ## [6.1.0](https://github.com/actionhippie/ansible-doctor/compare/v6.0.0...v6.1.0) (2025-11-10)
 
 
