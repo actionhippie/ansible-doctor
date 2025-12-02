@@ -1,7 +1,7 @@
 FROM alpine:3.22@sha256:4b7ce07002c69e8f3d704a9c5d6fd3053be500b7f1c69fc0d80990c2ad8dd412
 
 # renovate: datasource=pypi depName=ansible-doctor
-ENV ANSIBLE_DOCTOR_VERSION=8.0.1
+ENV ANSIBLE_DOCTOR_VERSION=8.1.0
 
 RUN apk add --no-cache git bash python3 python3-dev py3-pip ansible-core && \
     pip3 install --break-system-packages -U ansible-doctor==${ANSIBLE_DOCTOR_VERSION} && \
