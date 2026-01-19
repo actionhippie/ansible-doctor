@@ -102,8 +102,8 @@
                         "files": [
                             "action.yml"
                         ],
-                        "from": "docker://ghcr.io/actionhippie/ansible-doctor:.*",
-                        "to": "docker://ghcr.io/actionhippie/ansible-doctor:${nextRelease.version}",
+                        "from": "'docker://ghcr.io/actionhippie/ansible-doctor:.*'",
+                        "to": "'docker://ghcr.io/actionhippie/ansible-doctor:${nextRelease.version}'",
                         "results": [
                             {
                                 "file": "action.yml",
