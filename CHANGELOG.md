@@ -1,5 +1,15 @@
 # Changelog
 
+## [6.3.2](https://github.com/actionhippie/ansible-doctor/compare/v6.3.1...v6.3.2) (2026-01-19)
+
+### Bugfixes
+
+* always add a v prefix to image refs on release ([bb0303a](https://github.com/actionhippie/ansible-doctor/commit/bb0303a638c14877b9e7b91b559c761ad4bdb31f))
+
+### Miscellaneous
+
+* use correct categories for releaserc to fix changelog ([906bf24](https://github.com/actionhippie/ansible-doctor/commit/906bf24837f138e629efb2391d436d66a7f50e1a))
+
 ## [6.3.1](https://github.com/actionhippie/ansible-doctor/compare/v6.3.0...v6.3.1) (2026-01-19)
 
 ### Bugfixes
