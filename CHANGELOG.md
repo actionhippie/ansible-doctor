@@ -1,5 +1,11 @@
 # Changelog
 
+## [6.3.1](https://github.com/actionhippie/ansible-doctor/compare/v6.3.0...v6.3.1) (2026-01-19)
+
+### Bugfixes
+
+* resolve missing quote in action config ([71094cf](https://github.com/actionhippie/ansible-doctor/commit/71094cff089df490ea5ac297bb67e85cda35869c))
+
 ## [6.3.0](https://github.com/actionhippie/ansible-doctor/compare/v6.2.2...v6.3.0) (2026-01-19)
 
 ## [6.2.2](https://github.com/actionhippie/ansible-doctor/compare/v6.2.1...v6.2.2) (2026-01-12)
