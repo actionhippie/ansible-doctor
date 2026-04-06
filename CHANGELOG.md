@@ -1,5 +1,17 @@
 # Changelog
 
+## [6.4.0](https://github.com/actionhippie/ansible-doctor/compare/v6.3.5...v6.4.0) (2026-04-06)
+
+### Dependencies
+
+* **minor:** update dependency ansible-doctor to v8.3.0 ([#125](https://github.com/actionhippie/ansible-doctor/issues/125)) ([91a0e9c](https://github.com/actionhippie/ansible-doctor/commit/91a0e9c7ec412f8d88bbe1c0b49788bd41990624))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([6199bed](https://github.com/actionhippie/ansible-doctor/commit/6199bedb776a20c30e9760d9f2c654176585cddb))
+* **flake:** updated lockfile [skip ci] ([13393de](https://github.com/actionhippie/ansible-doctor/commit/13393de6f5c2e2ba61e0ab91ea8c73aec45beafd))
+* **flake:** updated lockfile [skip ci] ([7051787](https://github.com/actionhippie/ansible-doctor/commit/70517879141fdb69b17e28c2ad022b74cc284c46))
+
 ## [6.3.5](https://github.com/actionhippie/ansible-doctor/compare/v6.3.4...v6.3.5) (2026-03-16)
 
 ### Dependencies
