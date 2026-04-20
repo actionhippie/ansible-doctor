@@ -1,5 +1,16 @@
 # Changelog
 
+## [6.4.1](https://github.com/actionhippie/ansible-doctor/compare/v6.4.0...v6.4.1) (2026-04-20)
+
+### Dependencies
+
+* **patch:** update alpine:3.23 docker digest to 5b10f43 ([#127](https://github.com/actionhippie/ansible-doctor/issues/127)) ([668d10f](https://github.com/actionhippie/ansible-doctor/commit/668d10f8e5d187aee58d4bc8ab30be19d65b1a53))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([bb41695](https://github.com/actionhippie/ansible-doctor/commit/bb41695e95543f1e2b4c813fae40f8ce2f4d6b3d))
+* **flake:** updated lockfile [skip ci] ([9b1171d](https://github.com/actionhippie/ansible-doctor/commit/9b1171da8f684ff82393815d7ff5397f1ab6ad0c))
+
 ## [6.4.0](https://github.com/actionhippie/ansible-doctor/compare/v6.3.5...v6.4.0) (2026-04-06)
 
 ### Dependencies
