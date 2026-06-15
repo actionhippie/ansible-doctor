@@ -1,5 +1,22 @@
 # Changelog
 
+## [6.5.0](https://github.com/actionhippie/ansible-doctor/compare/v6.4.2...v6.5.0) (2026-06-15)
+
+### Dependencies
+
+* **minor:** update alpine docker tag to v3.24 ([#129](https://github.com/actionhippie/ansible-doctor/issues/129)) ([4001dfd](https://github.com/actionhippie/ansible-doctor/commit/4001dfd5d91aa12d1b45fc65dc89ee3b22761b69))
+* **patch:** update dependency ansible-doctor to v8.3.2 ([#132](https://github.com/actionhippie/ansible-doctor/issues/132)) ([a7e7e27](https://github.com/actionhippie/ansible-doctor/commit/a7e7e27890014b05807c5c155d81bdda837efe68))
+* **patch:** update docker digests ([a408cee](https://github.com/actionhippie/ansible-doctor/commit/a408cee4c447cf3b724b8bd44eee4a5160b8b5fe))
+* **patch:** update docker digests ([#130](https://github.com/actionhippie/ansible-doctor/issues/130)) ([d58f4fc](https://github.com/actionhippie/ansible-doctor/commit/d58f4fcff21ca0ccaa7eb215aa8019090eae3de2))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([e64c7c7](https://github.com/actionhippie/ansible-doctor/commit/e64c7c71d10a6cee5e9d4dd97d331f6a8ab489f0))
+* **flake:** updated lockfile [skip ci] ([752ca87](https://github.com/actionhippie/ansible-doctor/commit/752ca877d0b5a10e5107c7a1e652720795a53716))
+* **flake:** updated lockfile [skip ci] ([770eadb](https://github.com/actionhippie/ansible-doctor/commit/770eadb4229d04f6d7d551499467eb087dc465a1))
+* **flake:** updated lockfile [skip ci] ([d6b0d0e](https://github.com/actionhippie/ansible-doctor/commit/d6b0d0e74afa9774002ace05679008fae07bd8c1))
+* **flake:** updated lockfile [skip ci] ([de65f1f](https://github.com/actionhippie/ansible-doctor/commit/de65f1f95b7861d3a11845f8317b18abc58eeb2c))
+
 ## [6.4.2](https://github.com/actionhippie/ansible-doctor/compare/v6.4.1...v6.4.2) (2026-05-11)
 
 ### Dependencies
